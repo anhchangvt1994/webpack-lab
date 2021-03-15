@@ -1,0 +1,7 @@
+dist
+tmp
+src
+node_modules
+image
+font
+package-lock.json
